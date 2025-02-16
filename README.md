@@ -1,2 +1,2 @@
 # hello-world
-Un repo para clase de Entornos
+Hola, me llamo Lucía y tengo 24 años!
